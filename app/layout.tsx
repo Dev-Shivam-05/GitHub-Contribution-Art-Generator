@@ -39,7 +39,10 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "GitHub Contribution Art Generator",
     description: "Draw pixel art on your GitHub contribution graph. Make your profile stand out.",
-  }
+  },
+  verification: {
+    google: "FpMq1620MPw97ShOx5JxKpvxsk0ON2uvsx7jUCBk_Ks",
+  },
 };
 
 const jsonLd = {
