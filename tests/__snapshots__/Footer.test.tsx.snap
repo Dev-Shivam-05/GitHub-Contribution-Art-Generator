@@ -1,0 +1,60 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Footer Component > renders correctly and matches snapshot 1`] = `
+<div>
+  <footer
+    class="w-full border-t border-border/40 bg-background/95 backdrop-blur supports-backdrop-filter:bg-background/60"
+  >
+    <div
+      class="container flex flex-col items-center justify-between gap-4 py-10 md:h-24 md:flex-row md:py-0"
+    >
+      <div
+        class="flex flex-col items-center gap-4 px-8 md:flex-row md:gap-2 md:px-0"
+      >
+        <p
+          class="text-center text-sm leading-loose text-muted-foreground md:text-left"
+        >
+          Built by
+           
+          <a
+            class="font-medium underline underline-offset-4"
+            href="https://github.com/Dev-Shivam-05"
+            rel="noreferrer"
+            target="_blank"
+          >
+            Dev-Shivam-05
+          </a>
+          . The source code is available on
+           
+          <a
+            class="font-medium underline underline-offset-4"
+            href="https://github.com/Dev-Shivam-05"
+            rel="noreferrer"
+            target="_blank"
+          >
+            GitHub
+          </a>
+          .
+        </p>
+      </div>
+      <div
+        class="flex flex-col items-center gap-1 text-center md:text-right"
+      >
+        <p
+          class="font-medium"
+        >
+          All rights reserved with Dev-Shivam-05
+        </p>
+        <a
+          class="text-xs mt-1 opacity-80 hover:underline hover:text-primary transition-colors block"
+          href="https://github.com/Dev-Shivam-05"
+          rel="noopener noreferrer"
+          target="_blank"
+        >
+          https://github.com/Dev-Shivam-05
+        </a>
+      </div>
+    </div>
+  </footer>
+</div>
+`;
